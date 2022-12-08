@@ -144,8 +144,12 @@ Now save & exit.
     # cd /var/www/html
 ```
 2. Now create a web file that  you want to share with html extension.
+"index.html" & open it by vim editor
 ```
-#vim index.html
+	#vim index.html
+```
+3. Write into this file following content 
+```
  <html>
 <title>Apache Server 1</title>
 	<body>
