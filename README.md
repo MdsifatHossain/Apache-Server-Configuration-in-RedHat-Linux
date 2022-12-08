@@ -1,5 +1,6 @@
 
 # Apache-Server-Configuration
+##### Based on Redhat Enterprise Linux 8
 
 ### What is an apache server?
 Apache server also known as web server/HTTP server.
