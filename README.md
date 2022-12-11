@@ -16,7 +16,7 @@ or provide web pages for their client machine within a LAN/internet environment.
 - Port -http 80, https 443
 - Page name - index.html
 - Logs -/var/log/httpd/error_log
-            /var/log/httpd/access_log
+* or  /var/log/httpd/access_log
 
 
 ### Apache Important Files and Directories
