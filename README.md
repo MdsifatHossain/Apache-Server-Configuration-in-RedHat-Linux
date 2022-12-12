@@ -1,5 +1,5 @@
 
-# Apache-Server-Configuration in RedHat Linu
+# Apache-Server-Configuration in RedHat Linux
 ##### Based on Redhat Enterprise Linux 8
 
 ### What is an apache server?
